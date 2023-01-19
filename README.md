@@ -1,7 +1,9 @@
 # Tetris_x86_Assembly
-Tetris game is completely written in x86 assembly language. (few features are missing)
-
-
+Tetris game is completely written in x86 assembly language. (following features are missing):
+1. score management
+2. rotation of blocks
+3. line breaker/Detector
+4. x86 interrupts
 
 
 
